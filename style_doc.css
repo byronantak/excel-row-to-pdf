@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.answer {
+    padding-left: 0px;
+}
+
+.code-answer {
+    background-color:#e5e5e5;
+    padding: 8px;
+}
+
+.blank-student-answer {
+    color: red
+}
+
+.header {
+    text-align: center;
+    font-size: 48px;
+    background-color: #dfdfdf;
+    padding: 24px;
+}
