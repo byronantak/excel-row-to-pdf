@@ -13,4 +13,5 @@ For the setup, see the `setup.md` file.
 
 # How to use
 `extract_data.py` reads the excel file and converts it to a more easily used json format file. 
+
 `create_pdf.py` reads the created json file and creates the PDFs 
