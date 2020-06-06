@@ -4,9 +4,9 @@ Python scripts to convert the heading row and cells in each excel rows to a pdf 
 # Why?
 Students at the university were requested to submit their code and answers to questions on Google forms. Google forms allows you to export 
 results into Google sheets. This gets difficult to mark for multiple students because one has to make the cells bigger to read longer
-answers. Luckily Google sheets allows one to export as an Excel file. These scripts were written so that every cell in every row (representing a student's answers) are concatentated together (along with the column name which is the question) into pdf documents so that it looks like a single documents with all of a student's answers. 
+answers. Luckily, Google sheets allows one to export as an Excel file. These scripts were written so that every cell in every row (representing a student's answers) are concatentated together (along with the column name which is the question) into PDF documents so that there is a single document for each student's answers. 
 
-This was done generically using column names that were not empty because the questions may change in the future,
+This was done generically using column names because the questions may change in the future.
 
 # Setup
 For the setup, see the `setup.md` file.
